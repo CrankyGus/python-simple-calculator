@@ -1,8 +1,8 @@
 # python-simple-calculator
 
-``bash
+```bash
 
 #to start
   python calculator.py
 
-``
+```
